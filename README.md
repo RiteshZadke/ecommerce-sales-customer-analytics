@@ -119,7 +119,7 @@ The datasets are organized into separate CSV files corresponding to the ten data
 
 - [x] Database and table creation
 - [x] Dataset loading
-- [ ] Data quality validation
+- [x] Data quality validation
 - [ ] Business KPI analysis
 - [ ] Sales and customer analytics
 - [ ] Product and profitability analysis
